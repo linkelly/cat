@@ -35,3 +35,6 @@ p {
   margin: 10px;
   line-height: 1.1em;
 }
+a {
+  color: pink;
+}
