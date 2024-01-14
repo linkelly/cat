@@ -1,7 +1,7 @@
 # Markov Motivation
 
 Markov motivation is a game where you customize a model to make nonsensical motivational quotes!
-Share your favorite ones on discord.
+
 ![thumbnail](generated-mode.png)
 
 There are two modes!
@@ -32,4 +32,4 @@ source quotes from chatGPT
 
 github copilot was clutch
 
-made during the CM Game Jam at UC Santa Cruz, 2023 -- thank you everyone
+made during the CM Game Jam at UC Santa Cruz, 2023 -- thank you everyone, esp Andrew Dunne for organizing.
