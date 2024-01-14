@@ -8,7 +8,10 @@ There are two modes!
 
 ## Source Mode
 
+In source mode, you browse through source quotes and mark them to customize the model.
+
 Click Next to browse through quotes.
+
 Click Mark to customize the model with the current quote. It will turn green.
 
 ## Generated Mode
@@ -26,5 +29,7 @@ Reading about transcendental poetry in class, and motivational things keep me go
 ### Credits
 
 source quotes from chatGPT
+
 github copilot was clutch
+
 made during the CM Game Jam at UC Santa Cruz, 2023 -- thank you everyone
