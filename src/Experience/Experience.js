@@ -50,9 +50,6 @@ export default class Experience {
           window.experience.world.flickRight();
         },
       };
-      this.debugFolder.add(debugObject, "Next");
-      this.debugFolder.add(debugObject, "Mark");
-      this.debugFolder.add(debugObject, "SwitchMode");
       // this.debugFolder.add(debugObject, "flickLeft");
     }
 
