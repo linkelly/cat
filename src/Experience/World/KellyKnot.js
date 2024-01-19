@@ -16,5 +16,6 @@ export default class KellyKnot {
 
   update() {
     this.cube.rotation.x += 0.005;
+    this.cube.rotation.y += 0.005;
   }
 }
