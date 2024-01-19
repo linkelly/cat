@@ -3,8 +3,9 @@ import Experience from "../Experience.js";
 import Environment from "./Environment.js";
 import Floor from "./Floor.js";
 import Stars from "./Stars.js";
-import SamirCube from "./SamirCube.js";
+//import SamirCube from "./SamirCube.js";
 // import Hexagons from "./Hexagons.js";
+import KellyKnot from "./KellyKnot.js"
 
 export default class World {
   constructor() {
@@ -24,14 +25,16 @@ export default class World {
       this.stars = new Stars();
       // this.hexagons = new Hexagons();
       this.environment = new Environment();
-      this.samirCube = new SamirCube();
+      //this.samirCube = new SamirCube();
+      this.kellyKnot = new KellyKnot();
       this.ready = true;
     });
   }
   update() {
     if (this.ready) {
       this.stars.update();
-      this.samirCube.update();
+      //this.samirCube.update();
+      this.kellyKnot.update();
     }
   }
 }
